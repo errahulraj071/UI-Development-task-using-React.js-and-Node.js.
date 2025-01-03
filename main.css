@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+  .server-info-container {
+    padding: 10px;
+  }
+
+  .server-details {
+    font-size: 14px;
+  }
+}
+
